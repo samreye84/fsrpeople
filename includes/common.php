@@ -79,7 +79,7 @@
                               <ul class="rd-navbar-dropdown">
                                 <li><a href="http://fsrpeople.com/leadership-and-executive-search.php"><span class="text-middle">Leadership &amp; Executive Search</span></a>
                                 </li>							
-                                <li><a href="http://fsrpeople.com/talent-acquisition.php"><span class="text-middle">Talent Acquisition</span></a>
+                                <li><a href="http://fsrpeople.com/talent-acquisition.php"><span class="text-middle">Talent Selection</span></a>
                                 </li>		
                                 <li><a href="http://fsrpeople.com/workforce-solutions.php"><span class="text-middle">Workforce Solutions</span></a>
                                 </li>
