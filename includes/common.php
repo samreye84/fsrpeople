@@ -49,7 +49,7 @@
                  <option value="#">Resources</option>
                    <option value="blog">&nbsp;&nbsp; - Latest Posts</option>
                    <option value="search.php#featured-search">&nbsp;&nbsp; - Featured Searches</option>
-                   <option value="https://fsrpeople.isolvedhire.com/jobs/" target="_blank">&nbsp;&nbsp; - Search &amp; Apply for Jobs</option>
+                   <option value="https://fsrpeople.isolvedhire.com/jobs/" target="_blank">&nbsp;&nbsp; - Job Openings</option>
                    <option value="https://payrollnetwork.myisolved.com/">&nbsp;&nbsp; - Employees</option>
                      <option value="https://payrollnetwork.myisolved.com/">&nbsp;&nbsp;   &nbsp;&nbsp; - Payroll/Benefits</option>
                      <option value="https://teprod05.deltekfirstessentials.com/DeltekTC/welcome.msv">&nbsp;&nbsp;   &nbsp;&nbsp; - Timekeeping</option>
@@ -125,7 +125,7 @@
                                 <li><a href="http://fsrpeople.com/blog"><span class="text-middle">Latest Posts</span></a>
                                 </li>
                               
-                                <li><a href="https://fsrpeople.isolvedhire.com/jobs/" target="_blank"><span class="text-middle">Search &amp; Apply for Jobs</span></a>
+                                <li><a href="https://fsrpeople.isolvedhire.com/jobs/" target="_blank"><span class="text-middle">Job Openings</span></a>
                                 </li>
                                 <li><a target="blank" href="https://payrollnetwork.myisolved.com/"><span class="text-middle">Employees</span></a>
 								  <ul class="rd-navbar-dropdown">

@@ -57,7 +57,7 @@
                       <span class="btn-spacer"></span>
                       <div><a href="workforce-solutions.php" class="btn btn-circle btn-primary">Workforce Solutions</a></div>
 <span class="btn-spacer"></span>
-<div><a target="blank" href="https://careers-fsrhealth.icims.com/jobs/search?ss=1&hashed=-435800272" class="btn btn-circle btn-primary">Search &amp; Apply For Jobs</a></div>
+<div><a target="blank" href="https://careers-fsrhealth.icims.com/jobs/search?ss=1&hashed=-435800272" class="btn btn-circle btn-primary">Job Openings</a></div>
                     </div>
                   </div>
                 </ul>
@@ -85,7 +85,7 @@
                   <div class="unit unit-xl-horizontal unit-lg-horizontal unit-md-vertical unit-sm-horizontal unit-xs-horizontal unit-spacing-md unit-xs-top">
                     <div class="unit-left"><span class="icon icon-xl mdi mdi-account-multiple text-matrix"></span></div>
                     <div class="unit-body">
-                      <h4 class="text-bold">Human Resources &amp; Administration</h4>
+                      <h4 class="text-bold">Human Resources &amp; Administfration</h4>
                     </div>
                   </div>
                 </div>

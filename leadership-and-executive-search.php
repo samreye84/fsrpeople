@@ -66,7 +66,7 @@ FSR’s Leadership and Executive Search Division is committed to your success. W
 Let us help you find the right leaders who will embrace your organization and ensure its successes. 
 
 </p>
-<a target="blank" href="https://fsrpeople.isolvedhire.com/jobs/" class="btn btn-circle btn-primary">Search &amp; Apply For Jobs</a>
+<a target="blank" href="https://fsrpeople.isolvedhire.com/jobs/" class="btn btn-circle btn-primary">Job Openings</a>
               </div>
             </div>
             <div class="cell-xs-10 cell-sm-8 cell-md-6 cell-lg-preffix-1">

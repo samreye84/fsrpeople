@@ -91,7 +91,7 @@
             </div>
             <div class="cell-xs-10 cell-md-6 cell-lg-4 cell-lg-preffix-1 offset-top-60 offset-md-top-0 range">
               <div class="cell-lg-12 cell-lg-top  reveal-lg-block second-image-wrap"><img src="images/FSR_Diversity_2.jpg" width="570" height="420" alt="" class="img-responsive max-width-lg-custom">
-              <img src="images/Tiny Photo in Gov't jorge-alcala.jpg" width="570" height="570" alt="" class="img-responsive max-width-lg-custom"><a target="blank" href="https://fsrpeople.isolvedhire.com/jobs/" class="btn btn-circle btn-primary">Search &amp; Apply For Jobs</a></div>
+              <img src="images/Tiny Photo in Gov't jorge-alcala.jpg" width="570" height="570" alt="" class="img-responsive max-width-lg-custom"><a target="blank" href="https://fsrpeople.isolvedhire.com/jobs/" class="btn btn-circle btn-primary">Job Openings</a></div>
               
             <div class="cell-lg-8 cell-lg-bottom first-image-wrap to-front">
               </div></div>
