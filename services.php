@@ -41,7 +41,7 @@ nav.rd-navbar.rd-navbar-top-panel.rd-navbar-default.rd-navbar-white.rd-navbar-st
 </head>
   <body>
     <!-- Page-->
-    <div class="page text-center">
+    <div class="page text-justify">
       <!-- Page Head-->
       <header class="page-header slider-menu-position">
               <!-- RD Navbar Transparent-->

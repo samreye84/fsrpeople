@@ -38,7 +38,7 @@
 </head>
   <body>
     <!-- Page-->
-    <div class="page text-center">
+    <div class="page text-justify">
       <!-- Page Head-->
       <header class="page-header slider-menu-position oldlogopage">
               <!-- RD Navbar Transparent-->

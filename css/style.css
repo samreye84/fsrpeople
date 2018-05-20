@@ -9835,6 +9835,10 @@ html.lt-ie-10 .range > [class*="cell-lg-preffix-"] {
   vertical-align: top;
 }
 
+.text-justify {
+  text-align: justify;
+}
+
 @media (min-width: 480px) {
   html:not(.lt-ie10) .text-xs-left {
     text-align: left;
