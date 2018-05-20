@@ -9,9 +9,9 @@
                       <!-- RD Navbar Toggle-->
                       <button data-rd-navbar-toggle=".rd-navbar, .rd-navbar-nav-wrap" class="rd-navbar-toggle"><span></span></button>
                       <!-- Navbar Brand-->
-                      <div class="rd-navbar-brand"><a href="http://fsrpeople.com/">
-					 	 <img class="normal-logo" src="http://fsrpeople.com/images/fsr-logo.png">
-					 	 <img class="old-logo" src="http://fsrpeople.com/images/FSRlogotenyear.png">
+                      <div class="rd-navbar-brand"><a href="./">
+					 	 <img class="normal-logo" src="./images/fsr-logo.png">
+					 	 <img class="old-logo" src="./images/FSRlogotenyear.png">
 					  </a></div>
                     </div>
     <script language="JavaScript">
@@ -77,43 +77,43 @@
 						  
                             <li ' . (($page == 'markets') ? "class='active'" : "") . '><a href="#"><span>Markets</span></a>
                               <ul class="rd-navbar-dropdown">
-                                <li><a href="http://fsrpeople.com/leadership-and-executive-search.php"><span class="text-middle">Leadership &amp; Executive Search</span></a>
+                                <li><a href="./leadership-and-executive-search.php"><span class="text-middle">Leadership &amp; Executive Search</span></a>
                                 </li>							
-                                <li><a href="http://fsrpeople.com/talent-acquisition.php"><span class="text-middle">Talent Selection</span></a>
+                                <li><a href="./talent-acquisition.php"><span class="text-middle">Talent Selection</span></a>
                                 </li>		
-                                <li><a href="http://fsrpeople.com/workforce-solutions.php"><span class="text-middle">Workforce Solutions</span></a>
+                                <li><a href="./workforce-solutions.php"><span class="text-middle">Workforce Solutions</span></a>
                                 </li>
-								<li><a href="http://fsrpeople.com/services.php"><span class="text-middle">Government Services</span></a>
+								<li><a href="./services.php"><span class="text-middle">Government Services</span></a>
 								</li>
-                                <li><a href="http://fsrpeople.com/our-clients.php"><span class="text-middle">Clients &amp; Experience</span></a>
+                                <li><a href="./our-clients.php"><span class="text-middle">Clients &amp; Experience</span></a>
                                 </li>
-								<li><a href="http://fsrpeople.com/certifications.php"><span class="text-middle">Certifications</span></a>
+								<li><a href="/certifications.php"><span class="text-middle">Certifications</span></a>
 								</li>							
                               </ul>							
 							</li>						  
-                            <li ' . (($page == 'candidates') ? "class='active'" : "") . '><a href="http://fsrpeople.com/search.php"><span>Job Seekers</span></a>
+                            <li ' . (($page == 'candidates') ? "class='active'" : "") . '><a href="./search.php"><span>Job Seekers</span></a>
                               <ul class="rd-navbar-dropdown">
-                                <li><a href="http://fsrpeople.com/search.php"><span class="text-middle">Leadership &amp; Executive Search</span></a>
+                                <li><a href="./search.php"><span class="text-middle">Leadership &amp; Executive Search</span></a>
                                 </li>								
-								<li><a href="http://fsrpeople.com/government.php"><span class="text-middle">Government Sector</span></a>
+								<li><a href="./government.php"><span class="text-middle">Government Sector</span></a>
                                 </li>
                               </ul>
                             </li>
 
 
-							<li ' . (($page == 'working-warriors') ? "class='active'" : "") . '><a href="http://fsrpeople.com/working-warriors.php"><span>Working Warriors</span></a>
+							<li ' . (($page == 'working-warriors') ? "class='active'" : "") . '><a href="./working-warriors.php"><span>Working Warriors</span></a>
                             </li>
-                            <li ' . (($page == 'about-us') ? "class='active'" : "") . '><a href="http://fsrpeople.com/our-story.php"><span>About Us</span></a>
+                            <li ' . (($page == 'about-us') ? "class='active'" : "") . '><a href="./our-story.php"><span>About Us</span></a>
                               <ul class="rd-navbar-dropdown">
-                                <li><a href="http://fsrpeople.com/our-story.php"><span class="text-middle">Our Story</span></a>
+                                <li><a href="./our-story.php"><span class="text-middle">Our Story</span></a>
                                 </li>
-                                <li><a href="http://fsrpeople.com/leadership.php"><span class="text-middle">Leadership</span></a>
+                                <li><a href="./leadership.php"><span class="text-middle">Leadership</span></a>
                                 </li>						
-                                <li><a href="http://fsrpeople.com/our-clients.php"><span class="text-middle">Clients &amp; Experience</span></a>
+                                <li><a href="./our-clients.php"><span class="text-middle">Clients &amp; Experience</span></a>
                                 </li>									
-                                <li><a href="http://fsrpeople.com/affiliations.php"><span class="text-middle">Affiliations &amp; Awards</span></a>
+                                <li><a href="./affiliations.php"><span class="text-middle">Affiliations &amp; Awards</span></a>
                                 </li>		
-								<li><a href="http://fsrpeople.com/certifications.php"><span class="text-middle">Certifications</span></a>
+								<li><a href="/certifications.php"><span class="text-middle">Certifications</span></a>
 								</li>			
 								<li><a href="photos.php"><span class="text-middle">Community</span></a>
 								</li>																							
@@ -122,7 +122,7 @@
                             </li>
                             <li ' . (($page == 'resources') ? "class='active'" : "") . '><a href="#"><span>Resources</span></a>
                               <ul class="rd-navbar-dropdown">
-                                <li><a href="http://fsrpeople.com/blog"><span class="text-middle">Latest Posts</span></a>
+                                <li><a href="./blog"><span class="text-middle">Latest Posts</span></a>
                                 </li>
                               
                                 <li><a href="https://fsrpeople.isolvedhire.com/jobs/" target="_blank"><span class="text-middle">Job Openings</span></a>
@@ -137,7 +137,7 @@
 							    </li>								
                               </ul>                           
                             </li>
-                            <li ' . (($page == 'contact-us') ? "class='active'" : "") . '><a href="http://fsrpeople.com/contact-us.php"><span>Contact Us</span></a>
+                            <li ' . (($page == 'contact-us') ? "class='active'" : "") . '><a href="./contact-us.php"><span>Contact Us</span></a>
                             </li>
                           </ul>
                         </div>
